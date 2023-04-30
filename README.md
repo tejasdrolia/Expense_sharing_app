@@ -1,16 +1,11 @@
-# testing_app
+# Expense Sharing App 
 
-A new Flutter application.
+A Flutter UI application assignment for ElectricPe.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![612bf9e2-5c0b-4e34-a451-674f97dc5836](https://user-images.githubusercontent.com/57807735/235362040-cced5a94-5a96-4f94-b488-800465e272f0.jpeg)
+![68aac16a-e6e1-479f-8fe1-1fcdcb1ef1c1](https://user-images.githubusercontent.com/57807735/235362042-961f0f2b-5e9a-4978-9ab2-e5e311029f6f.jpeg)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://user-images.githubusercontent.com/57807735/235362046-a282068b-b44c-43a2-8233-b61a8d96d658.mp4
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
